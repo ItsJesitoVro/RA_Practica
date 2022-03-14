@@ -1,2 +1,2 @@
 # RA_Practica
- Catalogo de carros en realiada aumentada
+ Catalogo de carros en Realidad Aumentada
